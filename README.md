@@ -2,25 +2,20 @@
 1. Node.js and npm installed on your machine.
 
 **Dependencies**
-
-cypress/browserify-preprocessor
-babel-plugin-module-resolver
-cypress
-cypress-mochawesome-reporter
-prettier
+1. cypress/browserify-preprocessor
+2. babel-plugin-module-resolver
+3. cypress
+4. cypress-mochawesome-reporter
+5. prettier
 
 **Test Scenarios**
-
-Successful Login
-
-Successful Search
-
-Successful Register
+1. Successful Login
+2. Successful Search
+3. Successful Register
 
 **How to Run**
-
-npm cypress open
-npm cypress run
+1. npm cypress open
+2. npm cypress run
 
 **URL Scenario & bug**
 
