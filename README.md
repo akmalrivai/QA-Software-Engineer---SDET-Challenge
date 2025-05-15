@@ -1,26 +1,23 @@
-Prerequisites
-Node.js and npm installed on your machine.
-Ensure that the website automationexercise.com is accessible.
-Dependencies
+**Prerequisites**
+1. Node.js and npm installed on your machine.
+
+**Dependencies**
 cypress/browserify-preprocessor
 babel-plugin-module-resolver
 cypress
 cypress-mochawesome-reporter
 prettier
-Test Scenarios
-Successful Sending Email
 
+**Test Scenarios**
 Successful Login
 
-Successful Search Product
+Successful Search
 
-Search Product & Add to Cart
+Successful Register
 
-Successful Register with Random Email
-
-How to Run
+**How to Run**
 npm cypress open
 npm cypress run
 
-URL Scenario & bug
+**URL Scenario & bug**
 https://docs.google.com/spreadsheets/d/1DTUz-2DZI24ING-WMuR-ffE2h1G5UShKIKCxksvYD_k/edit?usp=sharing
