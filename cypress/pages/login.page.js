@@ -1,0 +1,10 @@
+export const emailField = '#basic_email'
+export const invalidEmailAlert = ''
+export const validEmailAlert = ''
+export const emailForgotPassword = ''
+export const forgotPassword = 'a[href="href="/en/forgot-password"]'
+export const passwordField = '.border-none'
+export const invalidPasswordAlert = ''
+export const signInBtn = '.border-none'
+export const signInWithGoogle = ''
+
